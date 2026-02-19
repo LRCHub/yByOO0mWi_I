@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "素直になれなくて... (feat.Noa)",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-19T14:27:35.121527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素直になれなくて",
+      "artist": "Yasuharu Takanashi",
+      "has_synced": false,
+      "path": "select/01_素直になれなくて_Yasuharu_Takanashi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "素直になれなくて",
+      "artist": "高梨康治",
+      "has_synced": false,
+      "path": "select/02_素直になれなくて_高梨康治.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "素直になれなくて",
+      "artist": "Takanashi, Yasuharu",
+      "has_synced": false,
+      "path": "select/03_素直になれなくて_Takanashi,_Yasuharu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "素直になれなくて",
+      "artist": "Aoyama, Thelma",
+      "has_synced": false,
+      "path": "select/04_素直になれなくて_Aoyama,_Thelma.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "素直になれなくて",
+      "artist": "青山テルマ",
+      "has_synced": false,
+      "path": "select/05_素直になれなくて_青山テルマ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "会いたくて、素直になれなくて feat. 中村舞子",
+      "artist": "CLIFF EDGE",
+      "has_synced": false,
+      "path": "select/06_会いたくて、素直になれなくて_feat._中村舞子_CLIFF_EDGE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素直になれなくて... feat.Noa",
+      "artist": "LGYankees presents DJ No.2",
+      "has_synced": false,
+      "path": "select/pl_01_素直になれなくて..._feat.Noa_LGYankees_presents_DJ_No.2.txt"
+    }
+  ]
+}
